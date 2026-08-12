@@ -1,0 +1,185 @@
+[
+  {
+    "question": "What is the checkout abandonment rate?",
+    "expected_answer": "18%",
+    "expected_source": "checkout_prd.md",
+    "should_answer": true
+  },
+  {
+    "question": "What causes friction during checkout?",
+    "expected_answer": "mandatory account creation",
+    "expected_source": "checkout_prd.md",
+    "should_answer": true
+  },
+  {
+    "question": "What is the objective of the checkout redesign?",
+    "expected_answer": "Reduce checkout abandonment while maintaining payment security and reliability",
+    "expected_source": "checkout_prd.md",
+    "should_answer": true
+  },
+  {
+    "question": "How long does a refund take?",
+    "expected_answer": "5-7 business days",
+    "expected_source": "returns_policy.md",
+    "should_answer": true
+},
+{
+    "question": "What payment methods are supported?",
+    "expected_answer": "credit cards, debit cards, and digital wallets",
+    "expected_source": "payments_prd.md",
+    "should_answer": true
+},
+{
+    "question": "What is POL-201?",
+    "expected_answer": "Returns Policy",
+    "expected_source": "returns_policy.md",
+    "should_answer": true
+},
+  {
+    "question": "Who is the CEO of NovaTech?",
+    "expected_answer": null,
+    "expected_source": null,
+    "should_answer": false
+  },
+  {
+    "question": "Where is NovaTech headquartered?",
+    "expected_answer": null,
+    "expected_source": null,
+    "should_answer": false
+  }
+
+  ,
+{
+    "question": "What percentage of payment attempts are successful?",
+    "expected_answer": "94%",
+    "expected_source": "payments_prd.md",
+    "should_answer": true
+},
+{
+    "question": "Why might a customer's transaction not go through?",
+    "expected_answer": "insufficient funds, expired cards, and incorrect payment information",
+    "expected_source": "payments_prd.md",
+    "should_answer": true
+},
+{
+    "question": "Can personalized products be returned?",
+    "expected_answer": "not eligible for returns",
+    "expected_source": "returns_policy.md",
+    "should_answer": true
+},
+{
+    "question": "How many days do customers have to return an eligible product?",
+    "expected_answer": "30 days",
+    "expected_source": "returns_policy.md",
+    "should_answer": true
+},
+{
+    "question": "What is the primary metric for payment processing?",
+    "expected_answer": "Payment success rate",
+    "expected_source": "payments_prd.md",
+    "should_answer": true
+},
+{
+    "question": "What is NovaTech's annual revenue?",
+    "expected_answer": null,
+    "expected_source": null,
+    "should_answer": false
+},
+{
+    "question": "How many employees work at NovaTech?",
+    "expected_answer": null,
+    "expected_source": null,
+    "should_answer": false
+}
+,
+{
+    "question": "What percentage of users abandon checkout before completing payment?",
+    "expected_answer": "18%",
+    "expected_source": "checkout_prd.md",
+    "should_answer": true
+},
+{
+    "question": "What is the main goal of improving checkout?",
+    "expected_answer": "Reduce checkout abandonment while maintaining payment security and reliability",
+    "expected_source": "checkout_prd.md",
+    "should_answer": true
+},
+{
+    "question": "Does mandatory account creation affect the checkout experience?",
+    "expected_answer": "mandatory account creation",
+    "expected_source": "checkout_prd.md",
+    "should_answer": true
+},
+{
+    "question": "What types of cards can customers use for payment?",
+    "expected_answer": "credit cards and debit cards",
+    "expected_source": "payments_prd.md",
+    "should_answer": true
+},
+{
+    "question": "What is the payment success rate?",
+    "expected_answer": "94%",
+    "expected_source": "payments_prd.md",
+    "should_answer": true
+},
+{
+    "question": "What can cause a payment attempt to fail?",
+    "expected_answer": "insufficient funds, expired cards, and incorrect payment information",
+    "expected_source": "payments_prd.md",
+    "should_answer": true
+},
+{
+    "question": "What is the objective of the payment initiative?",
+    "expected_answer": "Increase payment success while maintaining fraud prevention and transaction security",
+    "expected_source": "payments_prd.md",
+    "should_answer": true
+},
+{
+    "question": "Which document has the ID PRD-205?",
+    "expected_answer": "Payment Processing",
+    "expected_source": "payments_prd.md",
+    "should_answer": true
+},
+{
+    "question": "What team owns PRD-205?",
+    "expected_answer": "Payments Product Team",
+    "expected_source": "payments_prd.md",
+    "should_answer": true
+},
+{
+    "question": "Which team owns POL-201?",
+    "expected_answer": "Customer Experience Team",
+    "expected_source": "returns_policy.md",
+    "should_answer": true
+},
+{
+    "question": "When does refund processing begin?",
+    "expected_answer": "after the returned product is received",
+    "expected_source": "returns_policy.md",
+    "should_answer": true
+},
+{
+    "question": "Are final-sale products eligible for returns?",
+    "expected_answer": "not eligible for returns",
+    "expected_source": "returns_policy.md",
+    "should_answer": true
+},
+{
+    "question": "Who founded NovaTech?",
+    "expected_answer": null,
+    "expected_source": null,
+    "should_answer": false
+},
+{
+    "question": "What year was NovaTech founded?",
+    "expected_answer": null,
+    "expected_source": null,
+    "should_answer": false
+},
+{
+    "question": "What is NovaTech's stock price?",
+    "expected_answer": null,
+    "expected_source": null,
+    "should_answer": false
+}
+]
