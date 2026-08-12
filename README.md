@@ -2,6 +2,8 @@
 
 ## AI-Powered Product Knowledge Assistant
 
+🚀 **[Try the Live ProductOps AI Demo](https://worlikarmansi30-productops-ai-app-5mprqo.streamlit.app/)**
+
 ProductOps AI is a production-style Retrieval-Augmented Generation (RAG) application designed to help product teams quickly find reliable answers across product requirements, payment documentation, and customer policies.
 
 Instead of manually searching through multiple documents, users can ask questions in natural language and receive grounded answers with source citations.
