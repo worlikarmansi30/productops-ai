@@ -6,8 +6,8 @@ from embed import create_embedding
 # Connect to the existing ChromaDB
 client = chromadb.PersistentClient(path="./chroma_db")
 
-# Get the collection we already created
-collection = client.get_collection(
+# Get or create the collection
+collection = client.get_or_create_collection(
     name="product_documents"
 )
 

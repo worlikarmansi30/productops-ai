@@ -21,4 +21,8 @@ def load_documents():
 
 if __name__ == "__main__":
     docs = load_documents()
-    print(docs)
+
+    print(f"Loaded {len(docs)} documents:")
+
+    for doc in docs:
+        print(f"- {doc['source']}")

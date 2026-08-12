@@ -14,7 +14,14 @@ SRC_DIR = PROJECT_ROOT / "src"
 sys.path.append(str(SRC_DIR))
 
 from generate_hybrid import generate_hybrid_answer
+from vector_store import collection, store_documents
 
+# --------------------------------------------------
+# INITIALIZE KNOWLEDGE BASE
+# --------------------------------------------------
+
+if collection.count() == 0:
+    store_documents()
 
 # --------------------------------------------------
 # PAGE CONFIGURATION
